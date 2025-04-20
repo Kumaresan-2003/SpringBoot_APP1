@@ -127,6 +127,10 @@ Modify this to allow specific origins in production.
 ## 📸 Screenshots
 
 _You can add screenshots here if you'd like for visual reference._
+![Screenshot 2025-04-20 134110](https://github.com/user-attachments/assets/0f846001-6e54-404a-a062-e35b03d8b04b)
+![Screenshot 2025-04-20 134049](https://github.com/user-attachments/assets/e32fd484-5663-4168-aa00-1dcb89feb5df)
+![Screenshot 2025-04-20 134110](https://github.com/user-attachments/assets/0512706c-acb7-4bc6-b87e-8f03a1ed1464)
+
 
 ---
 
